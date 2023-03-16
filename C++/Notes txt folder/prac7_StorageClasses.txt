@@ -1,0 +1,47 @@
+
+TYPES OF STORAGE CLASSES
+-> A storage class of variable specifies the lifetime and visiblilty of a variable within the program 
+-> Lifetime refers to the longevity of a variable or the duration till which a variabe remains active during program execution
+-> Visibility signifies the scope of a variable in which the program modules the variables is accessible
+Types of Storage Classes
+
+1. auto 
+PURPOSE: To store local variables used in a single function
+- The default storage class of any type of variable 
+- Initial Value is garbage value
+- Lifetime is limited till the time its container function is executing
+- Visibilty is restricted to the function in which it is declared
+- Stored in the stack segment
+
+2. extern
+PURPOSE: Stores the global Variables which are used throughout the program
+- It is declared outside of the function and is accessible in any of the function
+- An extern declaration cannot appear in class scope.
+- Cannot be used in functin parameters
+- Initial value is 0 
+- The lifetime of an external variable is same as the lifetime of a program
+- Any function can use it for its utility
+- Stores data in data segment
+
+3. static 
+PURPOSE: Stoers local variables retaining their values throughout the program
+- Visibility of a local variable 
+- Initial value is 0 
+- Lifetime of an external variable
+- It does not get destroyed after a function is executed but it retains(saves) its value so that it can be used by any other function
+- Stores data in data segment
+
+4. register (somehwhat similar to auto)
+PURPOSE: Variables using CPU Registers for storage purpose and for faster access
+- Initial value is garbage value
+- The objective is to increase the access speed (makes the programs faster)
+- Visibility is limited to function block only
+- Lifetime is only in the function block
+- Stores data in CPU Registers
+
+
+
+
+
+
+*/

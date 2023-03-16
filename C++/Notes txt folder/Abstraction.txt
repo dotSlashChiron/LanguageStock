@@ -1,0 +1,5 @@
+Abstraction refers to the act of representing essential features without even including the background details or explanations.
+
+Classes often use the conception of abstraction and are defined as a list of abstract attributes such as size, weight and cost and functions to operate on these attributes. They encapsulate all the essential of that objects that are to be created
+
+These are often called data members becuase they hold information

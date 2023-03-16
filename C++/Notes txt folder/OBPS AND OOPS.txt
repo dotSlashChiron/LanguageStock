@@ -1,0 +1,12 @@
+OOP AND OBP
+Object Based Programming is style of programming that primarily supports encapsulation and object identity. 
+Required Features for OBP
+- Data Encapsulation
+- Data Hiding and Access Mechanisms
+- Automiatic Initialization and clear up of objects
+- Operator Overloading
+Object Based Programming languages does not supports inheritance and dynamic binding
+Example of Object Based Programming Language - Ada
+-->
+Object Oriented Programming incorporates all of object-based programming language features along with two additional features namely inheritance and dynamic binding
+Examples of Object Oriented Programming Langugage - C++, Java

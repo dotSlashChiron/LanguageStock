@@ -1,0 +1,3 @@
+Objects are teh basic run-time entities in an object-oriented system. Objects take space in memory and have an associated address
+
+When a program is executed the objects interact by sending messages.Each objects contains data and code to manipulate the data. Objects can interact to each other without having to know the details of each others data or code

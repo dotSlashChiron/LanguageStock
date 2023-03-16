@@ -1,0 +1,7 @@
+Polymorphism is another important OOP concept.It means the ability to take more than one form . 
+
+A single function name can be used to handle different members and different types of arguements. 
+Using a single function name to perform different types of tasks is known as function overloading
+
+Polymorphism plays an important role in the allowing objects having different internal structures to share the same external interface
+Polymorphism is extensively used in implementing inheritance

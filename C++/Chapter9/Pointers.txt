@@ -1,0 +1,22 @@
+- Pointer is a derived data type that refers to another data variable by storing the variable's memory address rather than data
+
+- A Pointer variable defines where to get specific value of a specific data variable instead of defining the actual data.
+
+- A Pointer can point to another Pointer in C++ like C.
+- A Pointer is initialized with syntax 
+->   data-type *pointer-variable;
+
+- Void pointers are also called as generic pointers which refer to variables of any data-type. !We must type cast the variables to the specific data type
+
+- Dereferencing a pointer means to get the content of the memory location that the pointer points to.
+- After assigning of the variable to a pointer, we can change the content of the variable using the dereference operator.
+
+- Before dereferencing a pointer, it is essential to assign a value to the pointer. If we attempt to dereference an uninitialized pointer. it will cause runtime error by referring to any other location in memory
+
+- The memory address of array elements can't be changed, whereas the content of pointer variables, that is the memory address that it refers to, can be changed.
+
+* Two Different Ways of pointing to arrays
+int number[] = {};
+int *ptr = &number[0]; 
+//or 
+ptr = number

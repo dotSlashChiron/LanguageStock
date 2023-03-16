@@ -1,0 +1,3 @@
+Binding refers to the linking of a procedure call to the code to be executed in response to the call.Also known as late binding means that the code associated with a given procedure call is not known untill the time of the call at run-time.
+
+It is associated with polymorphism and inheritance.

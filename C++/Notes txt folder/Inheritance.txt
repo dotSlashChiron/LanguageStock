@@ -1,0 +1,4 @@
+Inheritance is the process by which objects of one class accquire the properties of objects of another class
+In Object Oriented Programming the concept of inheritance provides the idea of reusablity 
+
+The real appeal and power of the inheritance mechanism is that it allows the programmer to reuses a class that is almost but not exactly what he wants

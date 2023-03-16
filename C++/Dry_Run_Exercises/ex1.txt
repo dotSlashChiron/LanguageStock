@@ -1,0 +1,1 @@
+Doesn't prints anything just freezes on a prompt screen
